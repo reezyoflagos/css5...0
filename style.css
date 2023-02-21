@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mood{
+padding-right:50px;
+
+}
+.post{
+    background-image: url(degenius.png);
+    float: inline-start;
+    text-align: center;
+    margin-bottom: 200px;
+    margin-top: 500px;
+    margin-left:300px;
+   
+
+}
+.future{
+    display: flex;
+
+
+
+}
+
+
+.mood{
+    text-align: center;
+    background-color: grey;
+    background-size:contain;
+   
+}
+.seek{
+    border-radius: 10px;
+    margin: 16px;
+    background-color:goldenrod;
+}
+.way{
+    
+    border-radius: 10px;
+    
+
+}.read{
+    border-radius: 10px solid grey;
+    
+
+}
+input {
+    width: 370px;
+    height:40px;
+}
