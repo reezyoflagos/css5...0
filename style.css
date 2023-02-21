@@ -35,6 +35,7 @@ padding-right:50px;
     border-radius: 10px;
     margin: 16px;
     background-color:goldenrod;
+    padding: 10px 10px 10px 10px;
 }
 .way{
     
@@ -43,6 +44,7 @@ padding-right:50px;
 
 }.read{
     border-radius: 10px solid grey;
+    padding: 10px;
     
 
 }
